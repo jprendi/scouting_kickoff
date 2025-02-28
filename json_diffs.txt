@@ -1,0 +1,95 @@
+Discrepancy found in AlCaRecoTriggerBitsRcd for: 
+
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'AlCaRecoHLTpaths8e29_1e31_v15_hlt', 'timeLookupPayloadIds': []}
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'AlCaRecoHLTpaths8e29_5e33_v14_prompt', 'timeLookupPayloadIds': []}
+
+ 
+
+Discrepancy found in BTagTrackProbability2DRcd for: 
+
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'TrackProbabilityCalibration_PDF2D_hlt', 'timeLookupPayloadIds': []}
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'TrackProbabilityCalibration_PDF2D_express', 'timeLookupPayloadIds': []}
+
+ 
+
+Discrepancy found in BTagTrackProbability3DRcd for: 
+
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'TrackProbabilityCalibration_PDF3D_hlt', 'timeLookupPayloadIds': []}
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'TrackProbabilityCalibration_PDF3D_express', 'timeLookupPayloadIds': []}
+
+ 
+
+Discrepancy found in BeamSpotObjectsRcd for: 
+
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'BeamSpotObjects_PCL_byRun_v0_hlt', 'timeLookupPayloadIds': [{'payloadId': '546badfd128fc9733c702770f90d2e124c5e4f23', 'since': 386802, 'till': 386814}]}
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'BeamSpotObjects_PCL_byLumi_v0_prompt', 'timeLookupPayloadIds': [{'payloadId': '20cbff3b7498088a8e355d1bec7b6300fe593bff', 'since': 1661310529961985, 'till': 1661314824929281}]}
+
+ 
+
+Discrepancy found in CSCAlignmentErrorExtendedRcd for: 
+
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCAlignmentErrorExtended_6x6_hlt', 'timeLookupPayloadIds': [{'payloadId': 'af09a13167e597ff6b898e32b6b8c5312918a1c2', 'since': 355222, 'till': 18446744073709551615}]}
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCAlignmentErrorExtended_6x6_express', 'timeLookupPayloadIds': [{'payloadId': 'af09a13167e597ff6b898e32b6b8c5312918a1c2', 'since': 355222, 'till': 18446744073709551615}]}
+
+ 
+
+Discrepancy found in CSCAlignmentRcd for: 
+
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCAlignment_2009_v1_hlt', 'timeLookupPayloadIds': [{'payloadId': '531bb7a11b091fb44f25570a55f3d932ea908d1f', 'since': 380726, 'till': 387806}]}
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCAlignment_2009_v2_express', 'timeLookupPayloadIds': [{'payloadId': '531bb7a11b091fb44f25570a55f3d932ea908d1f', 'since': 380726, 'till': 387803}]}
+
+ 
+
+Discrepancy found in CSCBadChambersRcd for: 
+
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCBadChambers_2009_v1_hlt', 'timeLookupPayloadIds': []}
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCBadChambers_RunDependent_prompt', 'timeLookupPayloadIds': []}
+
+ 
+
+Discrepancy found in CSCBadStripsRcd for: 
+
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCBadStrips_hlt', 'timeLookupPayloadIds': []}
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCBadStrips_prompt', 'timeLookupPayloadIds': []}
+
+ 
+
+Discrepancy found in CSCBadWiresRcd for: 
+
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCBadWires_hlt', 'timeLookupPayloadIds': []}
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCBadWires_prompt', 'timeLookupPayloadIds': []}
+
+ 
+
+Discrepancy found in CSCDBCrosstalkRcd for: 
+
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCDBCrosstalk_v2_hlt', 'timeLookupPayloadIds': []}
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCDBCrosstalk_v2_express', 'timeLookupPayloadIds': []}
+
+ 
+
+Discrepancy found in CSCDBGainsRcd for: 
+
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCDBGains_hlt', 'timeLookupPayloadIds': []}
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCDBGains_express', 'timeLookupPayloadIds': []}
+
+ 
+
+Discrepancy found in CSCDBNoiseMatrixRcd for: 
+
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCDBNoiseMatrix_hlt', 'timeLookupPayloadIds': []}
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCDBNoiseMatrix_express', 'timeLookupPayloadIds': []}
+
+ 
+
+Discrepancy found in CSCDBPedestalsRcd for: 
+
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCDBPedestals_hlt', 'timeLookupPayloadIds': []}
+{'connectionString': 'frontier://FrontierProd/CMS_CONDITIONS', 'label': '', 'tag': 'CSCDBPedestals_express', 'timeLookupPayloadIds': []}
+
+ 
+
+Traceback (most recent call last):
+  File "/data/jprendi/diff_Tags_initial/src/scouting_trials/diff_jsons.py", line 12, in <module>
+    if file1[key] != file2[key]:
+KeyError: 'CSCL1TPParametersRcd'
