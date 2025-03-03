@@ -25,17 +25,25 @@ class json_diffs:
             return list(self.file1.keys())
         return list(self.file2.keys())
 
-
-            
+           
     def check_diff(self):
         for key in self.key_list:
             if self.key_in_file(self.file1, key) and self.key_in_file(self.file2, key):
                 if self.file1[key] != self.file2[key]:
                     for i in range(len(self.file1[key])):         
-                        if self.file1[key][i] != self.file2[key][i]:
+                        if self.file1[key][i] != self.file2[key][i] and self.iov_empty(key, i):
                             self.throw_discrepancy(key, i)
-            else:
-                self.throw_key_inexistent(key)
+          #  else:
+          #      self.throw_key_inexistent(key)
+
+
+    def iov_empty(self, key, entry):
+        try:
+            self.file1[key][entry]['timeLookupPayloadIds'][0]
+            self.file2[key][entry]['timeLookupPayloadIds'][0]
+            return True
+        except IndexError:
+            return False
 
 
     def throw_discrepancy(self, key, i):
