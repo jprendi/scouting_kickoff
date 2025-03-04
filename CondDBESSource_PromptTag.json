@@ -70,9 +70,29 @@
       "tag": "BeamSpotObjects_PCL_byLumi_v0_prompt",
       "timeLookupPayloadIds": [
         {
-          "payloadId": "20cbff3b7498088a8e355d1bec7b6300fe593bff",
-          "since": 1661310529961985,
-          "till": 1661314824929281
+          "payloadId": "e0d940c006ba4e81fd111a421c084698daba6803",
+          "since": 1661916120351560,
+          "till": 1661941890154527
+        },
+        {
+          "payloadId": "556dd2dcf8bb7b9d633c5f41e8d86a20eedcfd7c",
+          "since": 1661941890154996,
+          "till": 1661941890155016
+        },
+        {
+          "payloadId": "a5888bb7bab9c0c46f44f4aeedc8e3951eb98fe0",
+          "since": 1661941890155017,
+          "till": 1661941890155038
+        },
+        {
+          "payloadId": "79b376d20c6a1ff29993e17b75109406136bb07c",
+          "since": 1661941890155186,
+          "till": 1664188158050342
+        },
+        {
+          "payloadId": "7821efeb3f7ca481154f9cb05b85f8ac288ee787",
+          "since": 1661941890155079,
+          "till": 1661941890155099
         }
       ]
     }
@@ -84,9 +104,44 @@
       "tag": "BeamSpotOnlineHLT",
       "timeLookupPayloadIds": [
         {
-          "payloadId": "3d0e7c78b32730504664f98644b5afece0079bbb",
-          "since": 1661310529961990,
-          "till": 1661310529961990
+          "payloadId": "c4e5263659b538f41894b1ac20520a522ed19f8d",
+          "since": 1661916120351567,
+          "till": 1661941890154531
+        },
+        {
+          "payloadId": "c94c3063096e85aef6cbed4a48b0b122d90c351b",
+          "since": 1661941890155011,
+          "till": 1661941890155015
+        },
+        {
+          "payloadId": "861bf85f4760337db136fc7ffb16aafcba8306f8",
+          "since": 1661941890155016,
+          "till": 1661941890155020
+        },
+        {
+          "payloadId": "2cb1b2a0755b7787f04cb607cfd4e2d3b06c8606",
+          "since": 1661941890155021,
+          "till": 1661941890155025
+        },
+        {
+          "payloadId": "3b55e0eb4ba2bfa044a76ba7a42f86ff47216124",
+          "since": 1661941890155186,
+          "till": 1661941890155189
+        },
+        {
+          "payloadId": "4c000fa4c064b0798c752714603a73d43e85a629",
+          "since": 1661941890155190,
+          "till": 1661941890155194
+        },
+        {
+          "payloadId": "6393b2191f4b59e042861194bbbaf61272da6f92",
+          "since": 1661941890155195,
+          "till": 1664188158050346
+        },
+        {
+          "payloadId": "931dee485933a9b102add595c7af52e5bd29b7d7",
+          "since": 1661941890155081,
+          "till": 1661941890155085
         }
       ]
     }
@@ -98,9 +153,44 @@
       "tag": "BeamSpotOnlineLegacy",
       "timeLookupPayloadIds": [
         {
-          "payloadId": "a9b024d8340e42b59d0dfdcd38685707264a6e09",
-          "since": 1661310529961990,
-          "till": 1661310529961990
+          "payloadId": "8bcb82e45fe9516eed55860d9db6d6c6fab4bbbf",
+          "since": 1661916120351570,
+          "till": 1661941890154533
+        },
+        {
+          "payloadId": "bdf176a6d75e97e05e254c9071590f2ac1b3a3fb",
+          "since": 1661941890155010,
+          "till": 1661941890155014
+        },
+        {
+          "payloadId": "5335ff38a9b3d1216a2a858ed439af32b0965d97",
+          "since": 1661941890155015,
+          "till": 1661941890155019
+        },
+        {
+          "payloadId": "9d9620c4dd923bce108fde15cc6bad141f442eaa",
+          "since": 1661941890155020,
+          "till": 1661941890155024
+        },
+        {
+          "payloadId": "0a1732690314dbf12457ac524460773a98bfa1d7",
+          "since": 1661941890155185,
+          "till": 1661941890155189
+        },
+        {
+          "payloadId": "4178c93fce7e29c18e7f8b827aa0b4e1f4618f75",
+          "since": 1661941890155190,
+          "till": 1661941890155194
+        },
+        {
+          "payloadId": "984ccaf4006ec2681e9a88228f0527e86d0d0429",
+          "since": 1661941890155195,
+          "till": 1664188158050367
+        },
+        {
+          "payloadId": "c4e0de1ef5fe89d5b6da6d184b33c782443ae61f",
+          "since": 1661941890155080,
+          "till": 1661941890155084
         }
       ]
     }
@@ -138,7 +228,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "CSCBadChambers_RunDependent_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "f325dd786d39e5f01a284197542743949bc4404f",
+          "since": 253835,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "CSCBadStripsRcd": [
@@ -170,7 +266,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "CSCChamberMap_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "987f0e375ae13a3c1b2f89fe13fab5ee361b90f0",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "CSCChamberTimeCorrectionsRcd": [
@@ -178,7 +280,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "CSCChamberTimeCorrections_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "e8a48e7ddc08e1e89eab55ac8b2a2488a8cbaac1",
+          "since": 380039,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "CSCCrateMapRcd": [
@@ -186,7 +294,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "CSCCrateMap_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "e8fbc488c7387b6509fad5ba7bc507bcec4900c7",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "CSCDBChipSpeedCorrectionRcd": [
@@ -194,7 +308,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "CSCDBChipSpeedCorrection_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "31b70f73a8c4ef6d696b3bf2c8477aab780ac9a5",
+          "since": 263591,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "CSCDBCrosstalkRcd": [
@@ -202,7 +322,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "CSCDBCrosstalk_v2_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "5828c5716be0ad9b00b14c956e71f65da1ad8968",
+          "since": 376785,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "CSCDBGainsRcd": [
@@ -210,7 +336,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "CSCDBGains_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "03a1aa5919e763dca311e0897be238beac53cc34",
+          "since": 376785,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "CSCDBGasGainCorrectionRcd": [
@@ -234,7 +366,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "CSCDBNoiseMatrix_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "1dad8c75d200b158e0e909b99cf36cd26657bcb6",
+          "since": 266575,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "CSCDBPedestalsRcd": [
@@ -242,7 +380,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "CSCDBPedestals_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "0b6534fbee05cc41949de72b2b02ed8390659722",
+          "since": 376785,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "CSCDDUMapRcd": [
@@ -332,7 +476,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "DTAlignmentErrorExtended_6x6_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "3e020e5fcffb962635149cdbee2e47e2819b138c",
+          "since": 355222,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "DTAlignmentRcd": [
@@ -340,7 +490,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "DTAlignment_2009_v1_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "8fe26f2e62b476f0a7eff688a56391c22e280f6b",
+          "since": 380726,
+          "till": 387803
+        }
+      ]
     }
   ],
   "DTCCBConfigRcd": [
@@ -388,7 +544,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "DT_vDrift_cosmic2009_V01_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "221968618450dcdc8a8d62f7076c577a62ebc299",
+          "since": 321476,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "DTReadOutMappingRcd": [
@@ -396,7 +558,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "DTReadOutMapping_compact_V03",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "ab49e5a024c010260410195ef5247b9e0769250b",
+          "since": 222438,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "DTRecoConditionsUncertRcd": [
@@ -404,7 +572,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "DTRecoConditionsRecoUncert_True_v0",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "ffb523ea5cc5fd628c00c22ba9e13a4a038728d7",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "DTRecoGeometryRcd": [
@@ -412,7 +586,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "DTRECO_Geometry_v2_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "00bf18bd8425c65c7608814d54962ecbf05b8ffd",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "DTStatusFlagRcd": [
@@ -428,7 +608,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "DT_t0_cosmic2009_V01_ModCorr_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "89af2cd88d54fd0aa3b4cc0cac6aded0cc9fe09b",
+          "since": 125645,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "DTTPGParametersRcd": [
@@ -444,7 +630,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "DTTtrig_V01_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "0335ecfc438b3af0244a9f0d7b72de196c3f1935",
+          "since": 381340,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
@@ -458,7 +650,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "DYTThrObject_v0_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "72d21c4cd86daada8d21b982f49196ac7168c70d",
+          "since": 221421,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "DropBoxMetadataRcd": [
@@ -516,7 +714,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "ESAngleCorrectionFactors_V01_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "bb831ad917388169e910a27d4d49f1b0e57c95a4",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "ESChannelStatusRcd": [
@@ -552,7 +756,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "ESGain_V01_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "c19c923f6c5d61c3c7838489bdf3db296c819fde",
+          "since": 386906,
+          "till": 387477
+        }
+      ]
     }
   ],
   "ESIntercalibConstantsRcd": [
@@ -560,7 +770,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "ESIntercalibConstants_V01_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "a0a9014071f68d220554081e99c9125aa961c261",
+          "since": 386906,
+          "till": 387477
+        }
+      ]
     }
   ],
   "ESMIPToGeVConstantRcd": [
@@ -568,7 +784,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "ESMIPToGeVConstant_V01_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "9dd4b35ed1e7fb3786ed4f8b33de7c77269f641b",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "ESMissingEnergyCalibrationRcd": [
@@ -584,7 +806,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "ESPedestals_V01_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "34a238704393de46d5b0806f39c4a920f4a36813",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "ESRecHitRatioCutsRcd": [
@@ -592,7 +820,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "ESRecHitRatioCuts_V01_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "7e6c33d610a95eae2bdc72f92a9e76133c15f3a2",
+          "since": 386906,
+          "till": 387477
+        }
+      ]
     }
   ],
   "ESThresholdsRcd": [
@@ -608,7 +842,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "ESTimeSampleWeights_V01_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "afeb3a5921aa09b1401d0d29e9a0321270aebbb5",
+          "since": 386906,
+          "till": 387477
+        }
+      ]
     }
   ],
   "EcalADCToGeVConstantRcd": [
@@ -616,7 +856,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalADCToGeVConstant_V1_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "7b909ca3e6cfc41080d8a3034de552cb366ee490",
+          "since": 377139,
+          "till": 387138
+        }
+      ]
     }
   ],
   "EcalChannelStatusRcd": [
@@ -626,9 +872,9 @@
       "tag": "EcalChannelStatus_v1_prompt",
       "timeLookupPayloadIds": [
         {
-          "payloadId": "865ce59bcedaee974cd1909a75473ffc03b65555",
-          "since": 386618,
-          "till": 386853
+          "payloadId": "07c6fb1dfc11f28438fb6d9831b30f983668d1fc",
+          "since": 386854,
+          "till": 387202
         }
       ]
     }
@@ -710,7 +956,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalGainRatios_TestPulse_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "77a960fadb1a6d1e5ac003ee6931b6b0adb52397",
+          "since": 146999,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "EcalIntercalibConstantsRcd": [
@@ -718,7 +970,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalIntercalibConstants_V1_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "9839e00ae4ab579cef63540ba62691737b550951",
+          "since": 386455,
+          "till": 387047
+        }
+      ]
     }
   ],
   "EcalIntercalibErrorsRcd": [
@@ -734,7 +992,28 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalLaserAPDPNRatios_prompt_v3",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "ce5c9f01ed96e002daa37f3074faaa9c0b21a357",
+          "since": 7426240763953938432,
+          "till": 7426261994977282559
+        },
+        {
+          "payloadId": "41348d31a72319ee9ef2c06e56465e3b769dd332",
+          "since": 7426298552738906112,
+          "till": 7426310742856092159
+        },
+        {
+          "payloadId": "63585cce115c35c3e575368d9d6b851dc4bf9ad9",
+          "since": 7426323025462558720,
+          "till": 7426331083821206015
+        },
+        {
+          "payloadId": "d63fa0adaa0eb8af09b74f70055c8332d75be2bf",
+          "since": 7426310746151059456,
+          "till": 7426323022167591423
+        }
+      ]
     }
   ],
   "EcalLaserAPDPNRatiosRefRcd": [
@@ -742,7 +1021,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalLaserAPDPNRatiosRef_v2_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "16b889da01d7f56626f164522f67da7d80cc79aa",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "EcalLaserAlphasRcd": [
@@ -750,7 +1035,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalLaserAlphas_v2_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "de8f27b0d3f02aa5ed06b0c40e6994b521d53434",
+          "since": 337427,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "EcalLinearCorrectionsRcd": [
@@ -758,7 +1049,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalLinearCorrections_mc",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "25c192320bbdfc4f56d810be1b90e39beac024d8",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "EcalMappingElectronicsRcd": [
@@ -780,7 +1077,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalMustacheSCParameters_average_run2_run3_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "089f19a9d54146cac54c945e383e1270707c43d2",
+          "since": 339000,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "EcalPFRecHitThresholdsRcd": [
@@ -788,7 +1091,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalPFRecHitThresholds_2018_v1_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "6bf33ca11214dec349a05af31b1f4af8526ffb30",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "EcalPedestalsRcd": [
@@ -796,7 +1105,18 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalPedestals_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "65df02792a859f743e35bbe69beb93c39b833b52",
+          "since": 386945,
+          "till": 386950
+        },
+        {
+          "payloadId": "f0a5adf1304a63037cee90af6cdae81d0c5e98b6",
+          "since": 386951,
+          "till": 387473
+        }
+      ]
     }
   ],
   "EcalPulseCovariancesRcd": [
@@ -804,7 +1124,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalPulseCovariances_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "6e11c3a7c16eff8ce44c8407d0623928b4d8b340",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "EcalPulseShapesRcd": [
@@ -812,7 +1138,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalPulseShapes_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "a1c97631dfe996b13c162e7895a5cc381b48f021",
+          "since": 386661,
+          "till": 387660
+        }
+      ]
     }
   ],
   "EcalSCDynamicDPhiParametersRcd": [
@@ -820,7 +1152,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalSCDynamicDPhiParameters_local_run2_run3_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "a68968eb40f8c934dc614f766a04d4c02ae229ab",
+          "since": 339000,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "EcalSRSettingsRcd": [
@@ -836,7 +1174,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalSampleMask_offline",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "26b326429e3af16db72efa467bdf5c1b26f86a66",
+          "since": 191039,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "EcalSamplesCorrelationRcd": [
@@ -844,7 +1188,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalSamplesCorrelation_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "a9de2bd8ab087308695146faa8a246ee1e4ba45a",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "EcalSimPulseShapeRcd": [
@@ -916,7 +1266,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalTPGLutGroup_v2_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "487ba2edc5750c272206dad80ff0c547c4b5e4dc",
+          "since": 386948,
+          "till": 386961
+        }
+      ]
     }
   ],
   "EcalTPGLutIdMapRcd": [
@@ -924,7 +1280,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalTPGLutIdMap_v2_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "56d2bc07d84558b66cc01dcb45feb80dc8e9ba3c",
+          "since": 386948,
+          "till": 386961
+        }
+      ]
     }
   ],
   "EcalTPGOddWeightGroupRcd": [
@@ -956,7 +1318,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalTPGPhysicsConst_v2_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "c08a9fa22853108e3f031b47227e4c58e4e7e760",
+          "since": 386948,
+          "till": 386961
+        }
+      ]
     }
   ],
   "EcalTPGSlidingWindowRcd": [
@@ -1020,7 +1388,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalTimeBiasCorrections_data2011",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "5d3d0725b0087941d4a7af74cac30ce09382b65f",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "EcalTimeCalibConstantsRcd": [
@@ -1028,7 +1402,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalTimeCalibConstants_v01_ratio_only_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "efc8e99ab417f548d30c5610f134006eee1de10b",
+          "since": 386663,
+          "till": 387741
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
@@ -1042,7 +1422,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "EcalTimeOffsetConstant_v02_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "e97e565a91ca3adc3d918d6a8305ad7bd487b552",
+          "since": 208839,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
@@ -1064,97 +1450,193 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EB_Full_ptbin1_mean_25ns",
       "tag": "ecalPFClusterCor_EB_Full_ptbin1_mean_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "146c9ad02ec5e86cfd972b88994d40a898d04868",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EB_Full_ptbin1_sigma_25ns",
       "tag": "ecalPFClusterCor_EB_Full_ptbin1_sigma_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "319b2ec93050f481a0c26eca49373192ddefeb76",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EB_Full_ptbin2_mean_25ns",
       "tag": "ecalPFClusterCor_EB_Full_ptbin2_mean_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "19002622881fe24aa9a518024af73c9469a0c7f4",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EB_Full_ptbin2_sigma_25ns",
       "tag": "ecalPFClusterCor_EB_Full_ptbin2_sigma_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "4349fe3e67ee18792c1afb847a0446a16ef01219",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EB_Full_ptbin3_mean_25ns",
       "tag": "ecalPFClusterCor_EB_Full_ptbin3_mean_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "5a2efe389b2f09b21119b289d47a7d26495302d5",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EB_Full_ptbin3_sigma_25ns",
       "tag": "ecalPFClusterCor_EB_Full_ptbin3_sigma_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "00364e40b9addef85e83446f2a59fd9716c3dece",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EB_ZS_mean_25ns",
       "tag": "ecalPFClusterCor_EB_ZS_mean_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "8509fc9cdd63f36931d487677593fcbd737588d4",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EB_ZS_sigma_25ns",
       "tag": "ecalPFClusterCor_EB_ZS_sigma_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "7ffb8f7dae1f0ec935f0fd4ccd407ffdf91cad4e",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EE_Full_ptbin1_mean_25ns",
       "tag": "ecalPFClusterCor_EE_Full_ptbin1_mean_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "0d9bfa2a92e10c9bcdf426f3d152824125faa1f6",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EE_Full_ptbin1_sigma_25ns",
       "tag": "ecalPFClusterCor_EE_Full_ptbin1_sigma_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "97628d738185324e65dac87c03b72335f8e85548",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EE_Full_ptbin2_mean_25ns",
       "tag": "ecalPFClusterCor_EE_Full_ptbin2_mean_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "d35e5c3353adcc8e6e579b5b7f598fe43391c5fb",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EE_Full_ptbin2_sigma_25ns",
       "tag": "ecalPFClusterCor_EE_Full_ptbin2_sigma_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "ce3aae04222b0c8222e1bfcc6d5f91cb8d969a29",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EE_Full_ptbin3_mean_25ns",
       "tag": "ecalPFClusterCor_EE_Full_ptbin3_mean_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "61149f69098827611e3ed836bd462627de6f211d",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EE_Full_ptbin3_sigma_25ns",
       "tag": "ecalPFClusterCor_EE_Full_ptbin3_sigma_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "862ef400a0bff0cd7a3bba4658b20c6112578ea9",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EE_ZS_mean_25ns",
       "tag": "ecalPFClusterCor_EE_ZS_mean_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "820f0b0a2dc61db47138c8fa94ad6f9444b575c7",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "ecalPFClusterCor2017V2_EE_ZS_sigma_25ns",
       "tag": "ecalPFClusterCor_EE_ZS_sigma_25ns_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "52efa9fe36abc85b2e5d9b7dfe1229d39ad03fd5",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
@@ -2310,9 +2792,9 @@
       "tag": "HcalL1TriggerObjects_v2.0_hlt",
       "timeLookupPayloadIds": [
         {
-          "payloadId": "a39e92f3ac279f00cc62a4cd8c0c1923b4e3312c",
-          "since": 386732,
-          "till": 386935
+          "payloadId": "929069f7aef00e5628500a0ed6a442c11765a1bc",
+          "since": 386936,
+          "till": 387472
         }
       ]
     }
@@ -2444,9 +2926,9 @@
       "tag": "HcalPedestalWidths_ADC_v8.1_hlt_effective",
       "timeLookupPayloadIds": [
         {
-          "payloadId": "9b84e1f8f8453711bf2cfeea25eb240a1bfabaf5",
-          "since": 386732,
-          "till": 386935
+          "payloadId": "c2bc15f0e26e832138e19167ae750daf156c907e",
+          "since": 386936,
+          "till": 387472
         }
       ]
     }
@@ -2470,9 +2952,9 @@
       "tag": "HcalPedestals_ADC_v8.1_hlt_effective",
       "timeLookupPayloadIds": [
         {
-          "payloadId": "b9d18c7e14b394cb36fa04cb5ac79ea070fd5a37",
-          "since": 386732,
-          "till": 386935
+          "payloadId": "4491d03e1aa73acec84478e51fb1dd37253ffa4f",
+          "since": 386936,
+          "till": 387472
         }
       ]
     }
@@ -2662,7 +3144,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "PGeometricDet_Tracker_v3_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "419fde926ac0febc5bc7a69fb837f33b86573124",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "JetCorrectionsRecord": [
@@ -2754,7 +3242,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "AK4PFHLT",
       "tag": "JetCorrectorParametersCollection_AK4PFHLT_hlt_v1",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "1166126dbc4b8f3126d1f8b8a1e8090ac617010d",
+          "since": 380266,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
@@ -3728,7 +4222,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "PTrackerParameters_Geometry_v3_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "d7248a538cafac0b789a01a7a895136ab97e005a",
+          "since": 347532,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "PZdcRcd": [
@@ -4208,7 +4708,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "RPCLBLinkMap_L1T_v1",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "9af14d715454ffe9767af51ce7384f25938a5e46",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "RPCOMTFLinkMapRcd": [
@@ -4230,7 +4736,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "RecoIdealGeometry_RPC_v3_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "6fc19c3ffed82f7dfd0a5c51d6cee5f1245862f6",
+          "since": 369374,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "RPCTwinMuxLinkMapRcd": [
@@ -4262,9 +4774,14 @@
       "tag": "runinfo_31X_hlt",
       "timeLookupPayloadIds": [
         {
-          "payloadId": "7f679e0ad4355e307ccf7c9f8da8c4f291045eaa",
-          "since": 386804,
-          "till": 386804
+          "payloadId": "dddf8119d96ccd8b389ffae76f80eed3c93898a5",
+          "since": 386949,
+          "till": 386949
+        },
+        {
+          "payloadId": "2e241586c00faf019d08b766ddac98eab9ac754d",
+          "since": 386951,
+          "till": 386951
         }
       ]
     }
@@ -4282,7 +4799,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiPixelDetVOff_Ideal_RunBased_31X_v2_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "0cabb996d62fa71beb2ae8b8c979e8e9f394d3a0",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "SiPixelFedCablingMapRcd": [
@@ -4290,7 +4813,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiPixelFedCablingMap_v1",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "ffb322528b3d817edd0f210d10b07b0bbbc8e2d6",
+          "since": 290543,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "SiPixelGainCalibrationForHLTRcd": [
@@ -4298,7 +4827,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiPixelGainCalibrationHLT_2009runs_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "6ca17b9769fb0a835f5c613832b4165ccb7153b9",
+          "since": 382493,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "SiPixelGainCalibrationOfflineRcd": [
@@ -4314,7 +4849,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiPixelGenErrorDBObject_38T_v1_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "f5ba8c5fb702dcd4c4eeca5ee57208caa5500021",
+          "since": 385550,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "SiPixelLorentzAngleRcd": [
@@ -4322,13 +4863,25 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiPixelLorentzAngle_v1_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "41b27fc22686edfcd18bffdda4f6223f4feaf941",
+          "since": 385550,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "forWidth",
       "tag": "SiPixelLorentzAngle_forWidth_v1_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "38bd2aa5a8193322bc8799c02c9733a715aaf944",
+          "since": 330927,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
@@ -4342,7 +4895,43 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiPixelQuality_byPCL_prompt_v2",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "3e4270557c96ee1248ecc6256dd65a293729c4f5",
+          "since": 1661916120351571,
+          "till": 1661941890154527
+        },
+        {
+          "payloadId": "5b823cabe2b8ab414709b2c0d94b6b0a640d571e",
+          "since": 1661941890155006,
+          "till": 1661941890155018
+        },
+        {
+          "payloadId": "8a0437ac59dd7fa73895e6a014c1f2d8bbd9537e",
+          "since": 1661941890155019,
+          "till": 1661941890155031
+        },
+        {
+          "payloadId": "5d68a2075b127f0eaf2a31cd8c88dc079966b360",
+          "since": 1661941890155176,
+          "till": 1661941890155191
+        },
+        {
+          "payloadId": "f7ce367a94979b30ff864122359d1e91c4b84c16",
+          "since": 1661941890155192,
+          "till": 1661941890155192
+        },
+        {
+          "payloadId": "ab0f2029f2d4f4e43b071eb266b97eae491f9e3c",
+          "since": 1661941890155193,
+          "till": 1661941890155205
+        },
+        {
+          "payloadId": "083de9db74812dfb91d5939bc774fb10fbfe2fcc",
+          "since": 1661941890155071,
+          "till": 1661941890155096
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
@@ -4370,7 +4959,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiStripApvGain_FromParticles_GR10_v1_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "940c1df5fa32b577a330a2553f5455be83cfcd42",
+          "since": 385959,
+          "till": 386967
+        }
+      ]
     }
   ],
   "SiStripApvGainRcd": [
@@ -4378,7 +4973,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiStripApvGain_GR10_v1_hlt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "a499264339c0d14e77f9e8b0693dcbf2eeae359e",
+          "since": 386451,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "SiStripBackPlaneCorrectionRcd": [
@@ -4386,7 +4987,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "deconvolution",
       "tag": "SiStripBackPlaneCorrection_deco_GR10_v1_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "6f19ffb4517842b4b93340528000fb4c15637993",
+          "since": 254501,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
@@ -4400,7 +5007,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiStripBadChannel_FromOnline_v1_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "cb6a5ae439483354e50f8335d78ece6b55393cde",
+          "since": 386450,
+          "till": 387014
+        }
+      ]
     }
   ],
   "SiStripBadFiberRcd": [
@@ -4408,7 +5021,18 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiStripBadChannel_FromOfflineCalibration_GR10_v1_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "f1fe6168f2e2c194a12ca87420519379f2773a63",
+          "since": 386945,
+          "till": 386950
+        },
+        {
+          "payloadId": "8a608cdd702d19b2985b7dac08681dc67e78bd67",
+          "since": 386951,
+          "till": 387206
+        }
+      ]
     }
   ],
   "SiStripBadModuleRcd": [
@@ -4416,7 +5040,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiStripBadChannel_FromOfflineAnalysis_GR10_v1_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "bc8d3d63ffd80b100ca18c6e954250d50c564f33",
+          "since": 1,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "SiStripBadStripRcd": [
@@ -4440,7 +5070,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiStripShiftAndCrosstalk_GR10_v1_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "456288b29e7b15ace08f4d9f83b8abf85c68e794",
+          "since": 153690,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
@@ -4494,7 +5130,18 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiStripDetVOff_v6_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "41e8c098523cca92265cd5385d78c7331e00eee0",
+          "since": 7426232659653650880,
+          "till": 7426260701240126463
+        },
+        {
+          "payloadId": "19328d8fa8b5f04b9f61018b69f767090fa041a5",
+          "since": 7426278091880707968,
+          "till": 7426327355412593087
+        }
+      ]
     }
   ],
   "SiStripFedCablingRcd": [
@@ -4502,7 +5149,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiStripFedCabling_v1_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "33af1503fc6dbdc06922768c883c6b3675f78960",
+          "since": 386450,
+          "till": 387014
+        }
+      ]
     }
   ],
   "SiStripLatencyRcd": [
@@ -4510,7 +5163,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiStripLatency_v2_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "3b9729f89c791342158d2872bb2aab43d7151db4",
+          "since": 386450,
+          "till": 387014
+        }
+      ]
     }
   ],
   "SiStripLorentzAngleRcd": [
@@ -4518,7 +5177,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "deconvolution",
       "tag": "SiStripLorentzAngleDeco_GR10_v1_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "216432114c819b1296f366e4333596cec93a7e18",
+          "since": 254501,
+          "till": 18446744073709551615
+        }
+      ]
     },
     {
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
@@ -4532,7 +5197,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiStripNoise_v2_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "36a5fff053b06ca4d6e347613077f7cd3d01bcd6",
+          "since": 386450,
+          "till": 387014
+        }
+      ]
     }
   ],
   "SiStripPedestalsRcd": [
@@ -4540,7 +5211,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiStripPedestals_v2_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "95c3900745655886d6fc09efb44b1ef302f6e5c7",
+          "since": 386450,
+          "till": 387014
+        }
+      ]
     }
   ],
   "SiStripThresholdRcd": [
@@ -4548,7 +5225,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "SiStripThreshold_v1_prompt",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "a25ec596237175b3d0de4dee0a5674ea46e69f55",
+          "since": 386450,
+          "till": 387014
+        }
+      ]
     }
   ],
   "TauTagMVAComputerRcd": [
@@ -4604,7 +5287,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "TrackerAlignmentExtendedErr_2009_v2_express_IOVs",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "a2f4499e911dfdea911a9ffb9f771bd58e1aa88b",
+          "since": 375854,
+          "till": 388152
+        }
+      ]
     }
   ],
   "TrackerAlignmentRcd": [
@@ -4612,7 +5301,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "TrackerAlignment_PCL_byRun_v2_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "531657e8cbc0941352327c33ac5d744da5e8040b",
+          "since": 386946,
+          "till": 386951
+        }
+      ]
     }
   ],
   "TrackerSurfaceDeformationRcd": [
@@ -4620,7 +5315,13 @@
       "connectionString": "frontier://FrontierProd/CMS_CONDITIONS",
       "label": "",
       "tag": "TrackerSurafceDeformations_v1_express",
-      "timeLookupPayloadIds": []
+      "timeLookupPayloadIds": [
+        {
+          "payloadId": "5ed1c84752ed273854204c035b3fb31aa1f8cc2a",
+          "since": 385356,
+          "till": 18446744073709551615
+        }
+      ]
     }
   ],
   "VeryForwardIdealGeometryRecord": [
