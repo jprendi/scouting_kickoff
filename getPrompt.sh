@@ -13,17 +13,17 @@ hltGetConfiguration /dev/CMSSW_14_1_0/GRun \
 --paths ScoutingPFOutput,\
 DST_PFScouting_*,\
 Dataset_ScoutingPFRun3 \
-> reHLT_Prompt_Tag_TT.py
+> reHLT_Prompt_Tag.py
 
 
-cat <<@EOF >> reHLT_Prompt_Tag_TT.py
+cat <<@EOF >> reHLT_Prompt_Tag.py
 process.hltOnlineBeamSpotESProducer.timeThreshold = 0
 process.GlobalTag.JsonDumpFileName =cms.untracked.string("CondDBESSource.json")
 @EOF
 
-cmsRun reHLT_Prompt_Tag_TT.py >& reHLT_Prompt_unprescaled_TT.log
+cmsRun reHLT_Prompt_Tag.py >& reHLT_Prompt.log
 
-mv DQMIO.root DQMIO_PromptTag_TT.root
-mv outputScoutingPF.root outputScoutingPF_PromptTag_TT.root
-mv CondDBESSource.json CondDBESSource_PromptTag_TT.json
+mv DQMIO.root DQMIO_PromptTag.root
+mv outputScoutingPF.root outputScoutingPF_PromptTag.root
+mv CondDBESSource.json CondDBESSource_PromptTag.json
 
