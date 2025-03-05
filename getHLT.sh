@@ -20,11 +20,8 @@ cat <<@EOF >> reHLT_HLT_Tag.py
 process.GlobalTag.JsonDumpFileName =cms.untracked.string("CondDBESSource.json")
 @EOF
 
-cmsRun reHLT_HLT_Tag.py >& reHLT_HLT_unprescaled.log
+cmsRun reHLT_HLT_Tag.py >& reHLT_HLT.log
 
 mv DQMIO.root DQMIO_HLTTag.root
 mv outputScoutingPF.root outputScoutingPF_HLTTag.root
 mv CondDBESSource.json CondDBESSource_HLTTag.json
-
-
-
